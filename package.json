@@ -1,0 +1,20 @@
+{
+  "name": "danielcom",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack src/index.js bin/app.js -d --watch",
+    "build": "webpack src/index.js bin/app.js -p",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mithril": "^1.1.1"
+  },
+  "devDependencies": {
+    "webpack": "^2.3.3"
+  }
+}

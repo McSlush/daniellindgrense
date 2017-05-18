@@ -1,0 +1,44 @@
+[
+    {
+        "language": "JavaScript",
+        "alt": "Programmeringskunskap: 4",
+        "title": "Programmering kunskapsnivå: 4",
+        "rankExtension": "four"
+    },
+    {
+        "language": "Mithril",
+        "alt": "Programmeringskunskap: 4",
+        "title": "Programmering kunskapsnivå: 4",
+        "rankExtension": "four"
+    },
+    {
+        "language": "PHP",
+        "alt": "Programmeringskunskap: 3",
+        "title": "Programmering kunskapsnivå: 3",
+        "rankExtension": "three"
+    },
+    {
+        "language": "JQuery",
+        "alt": "Programmeringskunskap: 3",
+        "title": "Programmering kunskapsnivå: 3",
+        "rankExtension": "three"
+    },
+    {
+        "language": "Java",
+        "alt": "Programmeringskunskap: 3",
+        "title": "Programmering kunskapsnivå: 3",
+        "rankExtension": "three"
+    },
+    {
+        "language": "C++",
+        "alt": "Programmeringskunskap: 2",
+        "title": "Programmering kunskapsnivå: 2",
+        "rankExtension": "two"
+    },
+    {
+        "language": "CSS",
+        "alt": "Programmeringskunskap: 2",
+        "title": "Programmering kunskapsnivå: 2",
+        "rankExtension": "two"
+    }
+]

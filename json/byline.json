@@ -1,0 +1,9 @@
+{
+  "img": "img/profile-online-cv.jpg",
+  "imgAlt": "Online CV profilbild",
+  "imgTitle": "Daniel Lindgren CV profilbild",
+  "text": "Jag studerar sista året inom webbprogrammering på BTH. Daniel Lindgren online CV är en del av ett SEO projekt.",
+  "languages": "Språk jag brukar utveckla i är bland annat C++, Java, JavaScript, JQuery, PHP, Mithril och har testat på en hel del olika ramverk och bibliotek.",
+  "linkedIn": "<a rel='external' href='https://www.linkedin.com/in/daniel-lindgren-49723796/' target='_blank'><img src='img/social/linkedIn.png'></a>",
+  "gitHub": "<a rel='external' href='https://github.com/McSlush' target='_blank'><img src='img/social/gitHub.png'></a>"
+}

@@ -1,0 +1,11 @@
+[
+  {
+    "title": "Invaders, ett spel i c++",
+    "img": "img/project/invaders-cv-projekt.png",
+    "alt": "CV projekt invaders i c++",
+    "figcaption": "Ett spel skapat i SFML/C++ för ett skolprojekt.",
+    "gitText": "Projektet på GitHub",
+    "link": "https://github.com/McSlush/SFML-Invaders",
+    "rel": "external"
+  }
+]

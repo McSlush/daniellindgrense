@@ -1,0 +1,148 @@
+body {
+    max-width: 800px;
+    margin: 0;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+figure {
+    margin: 0;
+}
+
+/* Navbar */
+.topnav {
+    width: 800px;
+    background-color: #333;
+    position: fixed;
+}
+
+.topnav a {
+    float: left;
+    color: #f2f2f2;
+    padding: 14px 16px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.topnav a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+.topnav a.active {
+    background-color: #4caf50;
+    color: white;
+}
+
+/* Header */
+#headerHolder {
+    padding: 49px 0 0 10px;
+    background-color: #307cf4;
+    overflow: auto;
+}
+
+#headerInfo h1 {
+    size: 40px;
+}
+
+/* Project */
+#project {
+    border-top: 2px solid grey;
+}
+
+.projectHolder {
+    border: 1px dashed;
+    max-width: 200px;
+    padding: 5px;
+    float: left;
+    margin-bottom: 5px;
+}
+
+.projectImg {
+    width: inherit;
+    height: 200px;
+}
+
+/* Experience */
+#experience {
+    clear: both;
+    border-top: 2px solid grey;
+}
+
+.experienceRating {
+    float: left;
+    margin-right: 10px;
+}
+
+.experienceHolder:after {
+    clear: both;
+    display: block;
+    visibility: hidden;
+    content: ".";
+}
+
+.rank {
+    margin-top: 10px;
+    display: inline-block;
+}
+
+.one {
+    width: 115px;
+    height: 25px;
+    background: url(../img/rating.png) no-repeat 0 -25px;
+}
+
+.two {
+    width: 115px;
+    height: 25px;
+    background: url(../img/rating.png) no-repeat 0 -50px;
+}
+
+.three {
+    background: url(../img/rating.png) no-repeat 0 -75px;
+    width: 115px;
+    height: 25px;
+}
+
+.four {
+    background: url(../img/rating.png) no-repeat 0 -100px;
+    width: 115px;
+    height: 25px;
+}
+
+.five {
+    background: url(../img/rating.png) no-repeat 0 -125px;
+    width: 115px;
+    height: 25px;
+}
+
+/* Contact */
+
+#contact {
+    border-top: 2px solid grey;
+}
+
+#contactInfo a {
+    text-decoration: none;
+}
+
+/* Byline */
+#byline {
+    border-top: 2px solid black;
+    overflow: auto;
+    background-color: #307cf4;
+}
+
+#byline p {
+    margin: 0;
+}
+
+#byline img {
+    margin: 0 5px 0 0;
+}
+
+#profileImg {
+    float: left;
+    width: 150px;
+}
