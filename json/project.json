@@ -27,7 +27,7 @@
     "rel": ""
   },
   {
-    "title": "Testar raycaster, objekt",
+    "title": "Testar raycaster i a-frame",
     "img": "img/project/a-frame-raycaster.png",
     "alt": "En liten del av ett projekt jag jobbar med.",
     "figcaption": "Klicka runt och kolla vad som sker!",
@@ -45,7 +45,7 @@
     "rel": ""
   },
   {
-    "title": "Byt färg på cursorn",
+    "title": "Byt färg på cursorn i a-frame",
     "img": "img/project/cursor-color.png",
     "alt": "En liten del av ett projekt jag jobbar med.",
     "figcaption": "Byt färg på cursorn när man hoovrar över objekt",
