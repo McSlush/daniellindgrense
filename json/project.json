@@ -7,5 +7,50 @@
     "gitText": "Projektet på GitHub",
     "link": "https://github.com/McSlush/SFML-Invaders",
     "rel": "external"
+  },
+  {
+    "title": "Kandidatarbete i SEO",
+    "img": "img/project/anderssonlindgrenseo.png",
+    "alt": "Kandidatarbete i SEO",
+    "figcaption": "Kandidatarbete i SEO",
+    "gitText": "Läs Kandidatarbetet i SEO",
+    "link": "../documents/anderssonlindgrenseo.pdf",
+    "rel": ""
+  },
+  {
+    "title": "En texturväljare för a-frame",
+    "img": "img/project/a-frame-model-texture.png",
+    "alt": "En liten del av ett projekt jag jobbar med.",
+    "figcaption": "Markera boomboxen, håll in musen och dra över en av boxarna för att ändra textur.",
+    "gitText": "En liten del av ett projekt jag jobbar med. ",
+    "link": "../webvr/model-texture/",
+    "rel": ""
+  },
+  {
+    "title": "Testar raycaster, objekt",
+    "img": "img/project/a-frame-raycaster.png",
+    "alt": "En liten del av ett projekt jag jobbar med.",
+    "figcaption": "Klicka runt och kolla vad som sker!",
+    "gitText": "En liten del av ett projekt jag jobbar med.",
+    "link": "../webvr/a-frame-raycaster/",
+    "rel": ""
+  },
+  {
+    "title": "Byt kamera i a-frame",
+    "img": "img/project/camera-toggle.png",
+    "alt": "En liten del av ett projekt jag jobbar med.",
+    "figcaption": "Ändra kameror genom att klicka på boxen och trycka på escape.",
+    "gitText": "En liten del av ett projekt jag jobbar med.",
+    "link": "../webvr/camera-toggle/",
+    "rel": ""
+  },
+  {
+    "title": "Byt färg på cursorn",
+    "img": "img/project/cursor-color.png",
+    "alt": "En liten del av ett projekt jag jobbar med.",
+    "figcaption": "Byt färg på cursorn när man hoovrar över objekt",
+    "gitText": "En liten del av ett projekt jag jobbar med.",
+    "link": "../webvr/cursor-color/",
+    "rel": ""
   }
 ]
