@@ -18,6 +18,15 @@
     "rel": ""
   },
   {
+    "title": "Certifikat: Node.js, Express och MongoDB",
+    "img": "img/project/cert-nodejs-express-mongodb.jpg",
+    "alt": "Certifikat: Node.js, Express och MongoDB",
+    "figcaption": "Certifikat för avklarad kurs inom Node.js, Express och MongoDB på udemy",
+    "gitText": "Se certifikat",
+    "link": "../documents/cert-nodejs-express-mongodb.jpg",
+    "rel": ""
+  },
+  {
     "title": "En texturväljare för a-frame",
     "img": "img/project/a-frame-model-texture.png",
     "alt": "En liten del av ett projekt jag jobbar med.",
@@ -51,6 +60,24 @@
     "figcaption": "Byt färg på cursorn när man hoovrar över objekt",
     "gitText": "En liten del av ett projekt jag jobbar med.",
     "link": "../webvr/cursor-color/",
+    "rel": ""
+  },
+  {
+    "title": "VidJot",
+    "img": "img/project/vidjot.png",
+    "alt": "VidJot, en del av Node.js, express & MongoDB dev to deployment",
+    "figcaption": "VidJot, en del av Node.js, express & MongoDB dev to deployment på Udemy",
+    "gitText": "Besök sidan som ligger uppe på heroku.",
+    "link": "https://hidden-waters-13518.herokuapp.com/",
+    "rel": ""
+  },
+  {
+    "title": "StoryBooks",
+    "img": "img/project/storybooks.png",
+    "alt": "StoryBooks, en del av Node.js, express & MongoDB dev to deployment",
+    "figcaption": "StoryBooks, en del av Node.js, express & MongoDB dev to deployment på Udemy",
+    "gitText": "Besök sidan som ligger uppe på heroku.",
+    "link": "https://enigmatic-sea-16603.herokuapp.com/stories",
     "rel": ""
   }
 ]

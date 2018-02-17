@@ -7,9 +7,9 @@
     },
     {
         "language": "Mithril",
-        "alt": "Programmeringskunskap: 4",
-        "title": "Programmering kunskapsnivå: 4",
-        "rankExtension": "four"
+        "alt": "Programmeringskunskap: 2",
+        "title": "Programmering kunskapsnivå: 2",
+        "rankExtension": "two"
     },
     {
         "language": "PHP",
@@ -37,8 +37,8 @@
     },
     {
         "language": "CSS",
-        "alt": "Programmeringskunskap: 2",
-        "title": "Programmering kunskapsnivå: 2",
-        "rankExtension": "two"
+        "alt": "Programmeringskunskap: 4",
+        "title": "Programmering kunskapsnivå: 4",
+        "rankExtension": "four"
     }
 ]
